@@ -1,12 +1,11 @@
 # Changelog
 
-## [2.0.1] - 2026-11-04
+## [2.0.1] - 2026-09-11
 
 ### Changed
 
-- Upgrade development linting to official `flutter_lints: ^6.0.0` (package + example)
+- Upgrade development linting to official `flutter_lints: ^6.0.0`
 - Upgrade Android toolchain to Gradle 9.3.1, AGP 9.1.0, Kotlin 2.4.0, and NDK 28
-- Align plugin `android/gradle` wrapper to Gradle 9.3.1
 - Fix Android Gradle build failure by disabling obsolete Jetifier and bumping JVM heap
 
 ### Added
