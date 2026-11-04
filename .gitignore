@@ -86,7 +86,6 @@ unlinked_spec.ds
 **/ios/Flutter/flutter_export_environment.sh
 **/ios/ServiceDefinitions.json
 **/ios/Runner/GeneratedPluginRegistrant.*
-**/.swift_pm.lock
 
 # Exceptions to above rules.
 !**/ios/**/default.mode1v3
